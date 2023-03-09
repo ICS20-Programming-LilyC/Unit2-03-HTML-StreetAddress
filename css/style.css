@@ -9,13 +9,13 @@ body {
 }
 
 h1 {
-  background-color: rgb(55, 88, 58);
-  color: hsl(50deg 100% 50%);
+  background-color: rgb(108 167 113);
+  color: hsl(131deg 22% 29%);
   padding: 40px;
   text-align: center;
 }
 
-p {
-  background-color: #bf7894;
-  color: #ffeb6b;
+h3 {
+  background-color: #67a284;
+  color: #fff;
 }
